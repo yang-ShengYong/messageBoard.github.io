@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "rewrite using express",
+  "main": "index.js",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "express": "^4.16.4",
+    "express-art-template": "^1.0.1",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
